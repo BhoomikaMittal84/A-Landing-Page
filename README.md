@@ -1,4 +1,4 @@
-# OIBSIP---A-Landing-Page
+# A-Landing-Page
 Description:
 
 Step into the aromatic world of coffee with "Coffee Stains," your premier destination for all things caffeinated. Our responsive landing page website is designed to captivate your senses, offering a tantalizing glimpse into the rich and flavorful universe of coffee.
